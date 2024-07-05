@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\VisualStudioCode_Workspace.csproj": {}
+    "f:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\VisualStudioCode_Workspace.csproj": {}
   },
   "projects": {
-    "F:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\VisualStudioCode_Workspace.csproj": {
+    "f:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\VisualStudioCode_Workspace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\VisualStudioCode_Workspace.csproj",
+        "projectUniqueName": "f:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\VisualStudioCode_Workspace.csproj",
         "projectName": "VisualStudioCode_Workspace",
-        "projectPath": "F:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\VisualStudioCode_Workspace.csproj",
+        "projectPath": "f:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\VisualStudioCode_Workspace.csproj",
         "packagesPath": "C:\\Users\\Akash A\\.nuget\\packages\\",
-        "outputPath": "F:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\obj\\",
+        "outputPath": "f:\\Workspace\\VisualStudioCode_Workspace\\MiaAcademy_Automation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Akash A\\AppData\\Roaming\\NuGet\\NuGet.Config"

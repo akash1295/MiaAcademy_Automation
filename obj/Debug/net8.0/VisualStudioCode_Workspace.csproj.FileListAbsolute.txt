@@ -115,3 +115,4 @@ f:\Workspace\VisualStudioCode_Workspace\MiaAcademy_Automation\obj\Debug\net8.0\V
 f:\Workspace\VisualStudioCode_Workspace\MiaAcademy_Automation\obj\Debug\net8.0\VisualStudioCode_Workspace.genruntimeconfig.cache
 f:\Workspace\VisualStudioCode_Workspace\MiaAcademy_Automation\obj\Debug\net8.0\ref\VisualStudioCode_Workspace.dll
 F:\Workspace\VisualStudioCode_Workspace\MiaAcademy_Automation\bin\Debug\net8.0\FluentAssertions.dll
+f:\Workspace\VisualStudioCode_Workspace\MiaAcademy_Automation\obj\Debug\net8.0\VisualStudioCode_Workspace.sourcelink.json
