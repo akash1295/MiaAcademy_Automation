@@ -1,0 +1,19 @@
+{
+  "bindingCulture": {
+    "name": "en-us"
+  },
+  "language": {
+    "feature": "en",
+    "tool": "en"
+  },
+  "plugins": [
+    {
+      "name": "SpecFlow.NUnit",
+      "type": "Runtime"
+    },
+    {
+      "name": "SpecFlow.Tools.MsBuild.Generation",
+      "type": "Generator"
+    }
+  ]
+}
